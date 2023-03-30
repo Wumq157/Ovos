@@ -1,0 +1,33 @@
+body {
+    background-color: blueviolet;
+}
+header{
+    padding-left: 20px;
+    font-size: 60px;
+}
+
+.principal{
+padding: 20px;
+
+}
+img {
+    width:  100%;
+    height: 30%;
+    border: 10px solid #6203aa;
+}
+p, h1 {
+    text-align: center; font-size: 40px;
+}
+
+
+.lista {
+    background-color: rgb(183, 0, 255);
+    padding: 20px;
+}.i1 {
+    font-size: 30px;
+    text-align: center;
+    width: 30%; height: 30%;
+}
+.i2 {
+    text-align: center;
+}
