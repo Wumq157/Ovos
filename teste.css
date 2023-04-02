@@ -23,11 +23,21 @@ p, h1 {
 .lista {
     background-color: rgb(183, 0, 255);
     padding: 20px;
+
 }.i1 {
     font-size: 30px;
     text-align: center;
     width: 30%; height: 30%;
+	
 }
 .i2 {
     text-align: center;
+	
+}
+button {
+	border-radius: 8px;
+	background-color: rgb(153,50,204);
+	text-align: center;
+	
+
 }
