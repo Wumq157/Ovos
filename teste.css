@@ -24,11 +24,23 @@ p, h1 {
     background-color: rgb(183, 0, 255);
     padding: 20px;
 
-}.i1 {
+}
+ul {
+    display: ;
+
+}
+#imagem {
+    margin: 0 right;
+    width: 50%;
+    height: auto;
+    float: right;
+}
+.i1 {
     font-size: 30px;
     text-align: center;
     width: 30%; height: 30%;
-	
+	margin: 0 left;
+    float: left;
 }
 .i2 {
     text-align: center;
